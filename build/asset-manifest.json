@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/amazon-dummy-website/static/css/main.af33d7bf.css",
+    "main.js": "/amazon-dummy-website/static/js/main.cc27e97e.js",
+    "static/js/787.37aa8ac1.chunk.js": "/amazon-dummy-website/static/js/787.37aa8ac1.chunk.js",
+    "static/media/logo.png": "/amazon-dummy-website/static/media/logo.0dd9a5104bbc1da3e6ae.png",
+    "index.html": "/amazon-dummy-website/index.html",
+    "main.af33d7bf.css.map": "/amazon-dummy-website/static/css/main.af33d7bf.css.map",
+    "main.cc27e97e.js.map": "/amazon-dummy-website/static/js/main.cc27e97e.js.map",
+    "787.37aa8ac1.chunk.js.map": "/amazon-dummy-website/static/js/787.37aa8ac1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af33d7bf.css",
+    "static/js/main.cc27e97e.js"
+  ]
+}
